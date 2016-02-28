@@ -1,0 +1,37 @@
+_repo: A-Select-Collection-of-Old-English-Plays-Volume-2_9400
+contributor:
+  compiler:
+    agent_name: Dodsley, Robert
+    aliases:
+    - Saddi, Nathan ben
+    - Dodsley, R. (Robert)
+    birthdate: 1703
+    deathdate: 1764
+    gutenberg_agent_id: '26524'
+    url: http://www.gutenberg.org/2009/agents/26524
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Dodsley
+  creator:
+    editor:
+      agent_name: Hazlitt, William Carew
+      alias: Hazlitt, W. Carew (William Carew)
+      birthdate: 1834
+      deathdate: 1913
+      gutenberg_agent_id: '4300'
+      url: http://www.gutenberg.org/2009/agents/4300
+      wikipedia: http://en.wikipedia.org/wiki/William_Carew_Hazlitt
+description: ''
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9400'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama'
+- !lcc 'PR'
+tableOfContents: Interlude of youth -- Lusty Juventus -- Jack Juggler -- Nice wanton
+  -- History of Jacob and Esau -- Disobedient child -- Marriage of wit and science.
+title: A Select Collection of Old English Plays, Volume 2
+url: http://www.gutenberg.org/ebooks/9400
